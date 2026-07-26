@@ -1,2 +1,2 @@
 # triage-alert-automation
-A soar triage alert automation build in n8n allowing the data to be tested against AbuseIPDB, WHOIS and VirusTotal
+A SOAR-style alert triage automation built in n8n, enriching incoming data against AbuseIPDB, WHOIS, and VirusTotal, with human-approved response actions via Slack.
