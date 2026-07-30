@@ -5,3 +5,4 @@ timestamp,ip_blocked,action_taken,approved_by,source_alert,severity
 2026-07-28T19:18:52.497Z,185.220.101.45,added_to_blocklist,SOC Alert Triage Bot,100
 2026-07-30T16:06:31.038Z,185.220.101.45,added_to_blocklist,SOC Alert Triage Bot,100
 2026-07-30T16:22:06.709Z,185.183.157.214,added_to_blocklist,SOC Alert Triage Bot,100
+2026-07-30T18:50:58.077Z,195.176.3.24,added_to_blocklist,SOC Alert Triage Bot,100
